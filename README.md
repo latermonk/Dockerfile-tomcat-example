@@ -1,6 +1,6 @@
 
 
-HyperGrid - Basic Docker Tomcat Example 
+Basic Docker Tomcat Example 
 ===========================
 
 This is the most basic Docker Tomcat example to demonstrate how an image is built using a Dockerfile that copies a sample Java WAR file. Once you build your own Tomcat image, you can push it to your Docker Hub repository and then run a container using this image on any Linux host that is Docker-enabled.
@@ -9,7 +9,7 @@ This is the most basic Docker Tomcat example to demonstrate how an image is buil
 
 You can clone this project:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/hypergrid-inc/basic-docker-tomcat-example.git
+git clone https://github.com/latermonk/Dockerfile-tomcat-example.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Build an image using the cloned project
